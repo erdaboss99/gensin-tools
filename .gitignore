@@ -1,0 +1,41 @@
+# Everything here is generated or personal. Only source, reference data and test
+# fixtures belong in the repository.
+
+# Build and test output
+/bin/
+*.exe
+*.test
+*.out
+*.prof
+
+# Scan results and screenshots, which contain personal game data such as your UID.
+# Anchored to the repository root so committed test fixtures and the embedded
+# reference data under internal/ are not affected.
+/*.json
+/*.png
+/*.jpg
+/*.jpeg
+/frames*/
+/failures*/
+/archive/
+/screenshots/
+
+# Local environment and secrets
+.env
+.env.*
+*.local
+
+# Editors and tools
+.idea/
+.vscode/
+*.swp
+*~
+.claude/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
