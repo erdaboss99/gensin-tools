@@ -1,0 +1,1497 @@
+[
+  {
+    "name": "A Note in Spring's Leich",
+    "set": "A Day Carved From Rising Winds",
+    "slot": "sands"
+  },
+  {
+    "name": "Dawn's Brilliant Oath",
+    "set": "A Day Carved From Rising Winds",
+    "slot": "plume"
+  },
+  {
+    "name": "Heldenepos's Unspoken Tale",
+    "set": "A Day Carved From Rising Winds",
+    "slot": "goblet"
+  },
+  {
+    "name": "Minnesang of Love and Lament",
+    "set": "A Day Carved From Rising Winds",
+    "slot": "circlet"
+  },
+  {
+    "name": "Windborne Flower's Spruchdichtung",
+    "set": "A Day Carved From Rising Winds",
+    "slot": "flower"
+  },
+  {
+    "name": "Adventurer's Bandana",
+    "set": "Adventurer",
+    "slot": "circlet"
+  },
+  {
+    "name": "Adventurer's Flower",
+    "set": "Adventurer",
+    "slot": "flower"
+  },
+  {
+    "name": "Adventurer's Golden Goblet",
+    "set": "Adventurer",
+    "slot": "goblet"
+  },
+  {
+    "name": "Adventurer's Pocket Watch",
+    "set": "Adventurer",
+    "slot": "sands"
+  },
+  {
+    "name": "Adventurer's Tail Feather",
+    "set": "Adventurer",
+    "slot": "plume"
+  },
+  {
+    "name": "Feather of Jagged Peaks",
+    "set": "Archaic Petra",
+    "slot": "plume"
+  },
+  {
+    "name": "Flower of Creviced Cliff",
+    "set": "Archaic Petra",
+    "slot": "flower"
+  },
+  {
+    "name": "Goblet of Chiseled Crag",
+    "set": "Archaic Petra",
+    "slot": "goblet"
+  },
+  {
+    "name": "Mask of Solitude Basalt",
+    "set": "Archaic Petra",
+    "slot": "circlet"
+  },
+  {
+    "name": "Sundial of Enduring Jade",
+    "set": "Archaic Petra",
+    "slot": "sands"
+  },
+  {
+    "name": "Moonlit Offering's Final Hour",
+    "set": "Aubade of Morningstar and Moon",
+    "slot": "sands"
+  },
+  {
+    "name": "Moonlit Offering's Libation",
+    "set": "Aubade of Morningstar and Moon",
+    "slot": "goblet"
+  },
+  {
+    "name": "Moonlit Offering's Opulent Dream",
+    "set": "Aubade of Morningstar and Moon",
+    "slot": "flower"
+  },
+  {
+    "name": "Moonlit Offering's Parting Light",
+    "set": "Aubade of Morningstar and Moon",
+    "slot": "plume"
+  },
+  {
+    "name": "Moonlit Offering's Silver Crown",
+    "set": "Aubade of Morningstar and Moon",
+    "slot": "circlet"
+  },
+  {
+    "name": "Berserker's Battle Mask",
+    "set": "Berserker",
+    "slot": "circlet"
+  },
+  {
+    "name": "Berserker's Bone Goblet",
+    "set": "Berserker",
+    "slot": "goblet"
+  },
+  {
+    "name": "Berserker's Indigo Feather",
+    "set": "Berserker",
+    "slot": "plume"
+  },
+  {
+    "name": "Berserker's Rose",
+    "set": "Berserker",
+    "slot": "flower"
+  },
+  {
+    "name": "Berserker's Timepiece",
+    "set": "Berserker",
+    "slot": "sands"
+  },
+  {
+    "name": "Broken Rime's Echo",
+    "set": "Blizzard Strayer",
+    "slot": "circlet"
+  },
+  {
+    "name": "Frost-Weaved Dignity",
+    "set": "Blizzard Strayer",
+    "slot": "goblet"
+  },
+  {
+    "name": "Frozen Homeland's Demise",
+    "set": "Blizzard Strayer",
+    "slot": "sands"
+  },
+  {
+    "name": "Icebreaker's Resolve",
+    "set": "Blizzard Strayer",
+    "slot": "plume"
+  },
+  {
+    "name": "Snowswept Memory",
+    "set": "Blizzard Strayer",
+    "slot": "flower"
+  },
+  {
+    "name": "Bloodstained Black Plume",
+    "set": "Bloodstained Chivalry",
+    "slot": "plume"
+  },
+  {
+    "name": "Bloodstained Chevalier's Goblet",
+    "set": "Bloodstained Chivalry",
+    "slot": "goblet"
+  },
+  {
+    "name": "Bloodstained Final Hour",
+    "set": "Bloodstained Chivalry",
+    "slot": "sands"
+  },
+  {
+    "name": "Bloodstained Flower of Iron",
+    "set": "Bloodstained Chivalry",
+    "slot": "flower"
+  },
+  {
+    "name": "Bloodstained Iron Mask",
+    "set": "Bloodstained Chivalry",
+    "slot": "circlet"
+  },
+  {
+    "name": "Crown of the Brave",
+    "set": "Brave Heart",
+    "slot": "circlet"
+  },
+  {
+    "name": "Fortitude of the Brave",
+    "set": "Brave Heart",
+    "slot": "sands"
+  },
+  {
+    "name": "Medal of the Brave",
+    "set": "Brave Heart",
+    "slot": "flower"
+  },
+  {
+    "name": "Outset of the Brave",
+    "set": "Brave Heart",
+    "slot": "goblet"
+  },
+  {
+    "name": "Prospect of the Brave",
+    "set": "Brave Heart",
+    "slot": "plume"
+  },
+  {
+    "name": "Heavensent Crown",
+    "set": "Celestial Gift",
+    "slot": "circlet"
+  },
+  {
+    "name": "Heavensent Decree",
+    "set": "Celestial Gift",
+    "slot": "sands"
+  },
+  {
+    "name": "Heavensent Demise",
+    "set": "Celestial Gift",
+    "slot": "plume"
+  },
+  {
+    "name": "Heavensent Fragrance",
+    "set": "Celestial Gift",
+    "slot": "flower"
+  },
+  {
+    "name": "Heavensent Reward",
+    "set": "Celestial Gift",
+    "slot": "goblet"
+  },
+  {
+    "name": "Witch's End Time",
+    "set": "Crimson Witch of Flames",
+    "slot": "sands"
+  },
+  {
+    "name": "Witch's Ever-Burning Plume",
+    "set": "Crimson Witch of Flames",
+    "slot": "plume"
+  },
+  {
+    "name": "Witch's Flower of Blaze",
+    "set": "Crimson Witch of Flames",
+    "slot": "flower"
+  },
+  {
+    "name": "Witch's Heart Flames",
+    "set": "Crimson Witch of Flames",
+    "slot": "goblet"
+  },
+  {
+    "name": "Witch's Scorching Hat",
+    "set": "Crimson Witch of Flames",
+    "slot": "circlet"
+  },
+  {
+    "name": "A Time of Insight",
+    "set": "Deepwood Memories",
+    "slot": "sands"
+  },
+  {
+    "name": "Labyrinth Wayfarer",
+    "set": "Deepwood Memories",
+    "slot": "flower"
+  },
+  {
+    "name": "Lamp of the Lost",
+    "set": "Deepwood Memories",
+    "slot": "goblet"
+  },
+  {
+    "name": "Laurel Coronet",
+    "set": "Deepwood Memories",
+    "slot": "circlet"
+  },
+  {
+    "name": "Scholar of Vines",
+    "set": "Deepwood Memories",
+    "slot": "plume"
+  },
+  {
+    "name": "Guardian's Band",
+    "set": "Defender's Will",
+    "slot": "circlet"
+  },
+  {
+    "name": "Guardian's Clock",
+    "set": "Defender's Will",
+    "slot": "sands"
+  },
+  {
+    "name": "Guardian's Flower",
+    "set": "Defender's Will",
+    "slot": "flower"
+  },
+  {
+    "name": "Guardian's Sigil",
+    "set": "Defender's Will",
+    "slot": "plume"
+  },
+  {
+    "name": "Guardian's Vessel",
+    "set": "Defender's Will",
+    "slot": "goblet"
+  },
+  {
+    "name": "Defender of the Enchanting Dream",
+    "set": "Desert Pavilion Chronicle",
+    "slot": "goblet"
+  },
+  {
+    "name": "End of the Golden Realm",
+    "set": "Desert Pavilion Chronicle",
+    "slot": "plume"
+  },
+  {
+    "name": "Legacy of the Desert High-Born",
+    "set": "Desert Pavilion Chronicle",
+    "slot": "circlet"
+  },
+  {
+    "name": "The First Days of the City of Kings",
+    "set": "Desert Pavilion Chronicle",
+    "slot": "flower"
+  },
+  {
+    "name": "Timepiece of the Lost Path",
+    "set": "Desert Pavilion Chronicle",
+    "slot": "sands"
+  },
+  {
+    "name": "Iridescence That Ceased Amidst Glory",
+    "set": "Disenchantment in Deep Shadow",
+    "slot": "flower"
+  },
+  {
+    "name": "Moment That Ceased Upon Waking From Grand Dreams",
+    "set": "Disenchantment in Deep Shadow",
+    "slot": "sands"
+  },
+  {
+    "name": "Ovations That Ceased Upon Festivity",
+    "set": "Disenchantment in Deep Shadow",
+    "slot": "goblet"
+  },
+  {
+    "name": "Pendulum That Ceased Amidst a Great Fall",
+    "set": "Disenchantment in Deep Shadow",
+    "slot": "circlet"
+  },
+  {
+    "name": "Sharpness That Ceased Upon Wondrous Creation",
+    "set": "Disenchantment in Deep Shadow",
+    "slot": "plume"
+  },
+  {
+    "name": "Chalice of the Font",
+    "set": "Echoes of an Offering",
+    "slot": "goblet"
+  },
+  {
+    "name": "Flowing Rings",
+    "set": "Echoes of an Offering",
+    "slot": "circlet"
+  },
+  {
+    "name": "Jade Leaf",
+    "set": "Echoes of an Offering",
+    "slot": "plume"
+  },
+  {
+    "name": "Soulscent Bloom",
+    "set": "Echoes of an Offering",
+    "slot": "flower"
+  },
+  {
+    "name": "Symbol of Felicitation",
+    "set": "Echoes of an Offering",
+    "slot": "sands"
+  },
+  {
+    "name": "Magnificent Tsuba",
+    "set": "Emblem of Severed Fate",
+    "slot": "flower"
+  },
+  {
+    "name": "Ornate Kabuto",
+    "set": "Emblem of Severed Fate",
+    "slot": "circlet"
+  },
+  {
+    "name": "Scarlet Vessel",
+    "set": "Emblem of Severed Fate",
+    "slot": "goblet"
+  },
+  {
+    "name": "Storm Cage",
+    "set": "Emblem of Severed Fate",
+    "slot": "sands"
+  },
+  {
+    "name": "Sundered Feather",
+    "set": "Emblem of Severed Fate",
+    "slot": "plume"
+  },
+  {
+    "name": "Deep Gallery's Bestowed Banquet",
+    "set": "Finale of the Deep Galleries",
+    "slot": "goblet"
+  },
+  {
+    "name": "Deep Gallery's Distant Pact",
+    "set": "Finale of the Deep Galleries",
+    "slot": "plume"
+  },
+  {
+    "name": "Deep Gallery's Echoing Song",
+    "set": "Finale of the Deep Galleries",
+    "slot": "flower"
+  },
+  {
+    "name": "Deep Gallery's Lost Crown",
+    "set": "Finale of the Deep Galleries",
+    "slot": "circlet"
+  },
+  {
+    "name": "Deep Gallery's Moment of Oblivion",
+    "set": "Finale of the Deep Galleries",
+    "slot": "sands"
+  },
+  {
+    "name": "A Moment Congealed",
+    "set": "Flower of Paradise Lost",
+    "slot": "sands"
+  },
+  {
+    "name": "Amethyst Crown",
+    "set": "Flower of Paradise Lost",
+    "slot": "circlet"
+  },
+  {
+    "name": "Ay-Khanoum's Myriad",
+    "set": "Flower of Paradise Lost",
+    "slot": "flower"
+  },
+  {
+    "name": "Secret-Keeper's Magic Bottle",
+    "set": "Flower of Paradise Lost",
+    "slot": "goblet"
+  },
+  {
+    "name": "Wilting Feast",
+    "set": "Flower of Paradise Lost",
+    "slot": "plume"
+  },
+  {
+    "name": "Ancient Sea's Nocturnal Musing",
+    "set": "Fragment of Harmonic Whimsy",
+    "slot": "plume"
+  },
+  {
+    "name": "Harmonious Symphony Prelude",
+    "set": "Fragment of Harmonic Whimsy",
+    "slot": "flower"
+  },
+  {
+    "name": "Ichor Shower Rhapsody",
+    "set": "Fragment of Harmonic Whimsy",
+    "slot": "goblet"
+  },
+  {
+    "name": "The Grand Jape of the Turning of Fate",
+    "set": "Fragment of Harmonic Whimsy",
+    "slot": "sands"
+  },
+  {
+    "name": "Whimsical Dance of the Withered",
+    "set": "Fragment of Harmonic Whimsy",
+    "slot": "circlet"
+  },
+  {
+    "name": "Gambler's Brooch",
+    "set": "Gambler",
+    "slot": "flower"
+  },
+  {
+    "name": "Gambler's Dice Cup",
+    "set": "Gambler",
+    "slot": "goblet"
+  },
+  {
+    "name": "Gambler's Earrings",
+    "set": "Gambler",
+    "slot": "circlet"
+  },
+  {
+    "name": "Gambler's Feather Accessory",
+    "set": "Gambler",
+    "slot": "plume"
+  },
+  {
+    "name": "Gambler's Pocket Watch",
+    "set": "Gambler",
+    "slot": "sands"
+  },
+  {
+    "name": "Dreaming Steelbloom",
+    "set": "Gilded Dreams",
+    "slot": "flower"
+  },
+  {
+    "name": "Feather of Judgment",
+    "set": "Gilded Dreams",
+    "slot": "plume"
+  },
+  {
+    "name": "Honeyed Final Feast",
+    "set": "Gilded Dreams",
+    "slot": "goblet"
+  },
+  {
+    "name": "Shadow of the Sand King",
+    "set": "Gilded Dreams",
+    "slot": "circlet"
+  },
+  {
+    "name": "The Sunken Years",
+    "set": "Gilded Dreams",
+    "slot": "sands"
+  },
+  {
+    "name": "Gladiator's Destiny",
+    "set": "Gladiator's Finale",
+    "slot": "plume"
+  },
+  {
+    "name": "Gladiator's Intoxication",
+    "set": "Gladiator's Finale",
+    "slot": "goblet"
+  },
+  {
+    "name": "Gladiator's Longing",
+    "set": "Gladiator's Finale",
+    "slot": "sands"
+  },
+  {
+    "name": "Gladiator's Nostalgia",
+    "set": "Gladiator's Finale",
+    "slot": "flower"
+  },
+  {
+    "name": "Gladiator's Triumphus",
+    "set": "Gladiator's Finale",
+    "slot": "circlet"
+  },
+  {
+    "name": "Golden Bird's Shedding",
+    "set": "Golden Troupe",
+    "slot": "plume"
+  },
+  {
+    "name": "Golden Era's Prelude",
+    "set": "Golden Troupe",
+    "slot": "sands"
+  },
+  {
+    "name": "Golden Night's Bustle",
+    "set": "Golden Troupe",
+    "slot": "goblet"
+  },
+  {
+    "name": "Golden Song's Variation",
+    "set": "Golden Troupe",
+    "slot": "flower"
+  },
+  {
+    "name": "Golden Troupe's Reward",
+    "set": "Golden Troupe",
+    "slot": "circlet"
+  },
+  {
+    "name": "Copper Compass",
+    "set": "Heart of Depth",
+    "slot": "sands"
+  },
+  {
+    "name": "Gilded Corsage",
+    "set": "Heart of Depth",
+    "slot": "flower"
+  },
+  {
+    "name": "Goblet of Thundering Deep",
+    "set": "Heart of Depth",
+    "slot": "goblet"
+  },
+  {
+    "name": "Gust of Nostalgia",
+    "set": "Heart of Depth",
+    "slot": "plume"
+  },
+  {
+    "name": "Wine-Stained Tricorne",
+    "set": "Heart of Depth",
+    "slot": "circlet"
+  },
+  {
+    "name": "Foundryman's Calculus",
+    "set": "Heart of the Furnace",
+    "slot": "sands"
+  },
+  {
+    "name": "Foundryman's Conjecture",
+    "set": "Heart of the Furnace",
+    "slot": "flower"
+  },
+  {
+    "name": "Foundryman's Legacy",
+    "set": "Heart of the Furnace",
+    "slot": "circlet"
+  },
+  {
+    "name": "Foundryman's Magnanimity",
+    "set": "Heart of the Furnace",
+    "slot": "goblet"
+  },
+  {
+    "name": "Foundryman's Observation",
+    "set": "Heart of the Furnace",
+    "slot": "plume"
+  },
+  {
+    "name": "Bloom Times",
+    "set": "Husk of Opulent Dreams",
+    "slot": "flower"
+  },
+  {
+    "name": "Calabash of Awakening",
+    "set": "Husk of Opulent Dreams",
+    "slot": "goblet"
+  },
+  {
+    "name": "Plume of Luxury",
+    "set": "Husk of Opulent Dreams",
+    "slot": "plume"
+  },
+  {
+    "name": "Skeletal Hat",
+    "set": "Husk of Opulent Dreams",
+    "slot": "circlet"
+  },
+  {
+    "name": "Song of Life",
+    "set": "Husk of Opulent Dreams",
+    "slot": "sands"
+  },
+  {
+    "name": "Instructor's Brooch",
+    "set": "Instructor",
+    "slot": "flower"
+  },
+  {
+    "name": "Instructor's Cap",
+    "set": "Instructor",
+    "slot": "circlet"
+  },
+  {
+    "name": "Instructor's Feather Accessory",
+    "set": "Instructor",
+    "slot": "plume"
+  },
+  {
+    "name": "Instructor's Pocket Watch",
+    "set": "Instructor",
+    "slot": "sands"
+  },
+  {
+    "name": "Instructor's Tea Cup",
+    "set": "Instructor",
+    "slot": "goblet"
+  },
+  {
+    "name": "Lavawalker's Epiphany",
+    "set": "Lavawalker",
+    "slot": "goblet"
+  },
+  {
+    "name": "Lavawalker's Resolution",
+    "set": "Lavawalker",
+    "slot": "flower"
+  },
+  {
+    "name": "Lavawalker's Salvation",
+    "set": "Lavawalker",
+    "slot": "plume"
+  },
+  {
+    "name": "Lavawalker's Torment",
+    "set": "Lavawalker",
+    "slot": "sands"
+  },
+  {
+    "name": "Lavawalker's Wisdom",
+    "set": "Lavawalker",
+    "slot": "circlet"
+  },
+  {
+    "name": "A Horn Unwinded",
+    "set": "Long Night's Oath",
+    "slot": "goblet"
+  },
+  {
+    "name": "Dyed Tassel",
+    "set": "Long Night's Oath",
+    "slot": "circlet"
+  },
+  {
+    "name": "Lightkeeper's Pledge",
+    "set": "Long Night's Oath",
+    "slot": "flower"
+  },
+  {
+    "name": "Nightingale's Tail Feather",
+    "set": "Long Night's Oath",
+    "slot": "plume"
+  },
+  {
+    "name": "Undying One's Mourning Bell",
+    "set": "Long Night's Oath",
+    "slot": "sands"
+  },
+  {
+    "name": "Lucky Dog's Clover",
+    "set": "Lucky Dog",
+    "slot": "flower"
+  },
+  {
+    "name": "Lucky Dog's Eagle Feather",
+    "set": "Lucky Dog",
+    "slot": "plume"
+  },
+  {
+    "name": "Lucky Dog's Goblet",
+    "set": "Lucky Dog",
+    "slot": "goblet"
+  },
+  {
+    "name": "Lucky Dog's Hourglass",
+    "set": "Lucky Dog",
+    "slot": "sands"
+  },
+  {
+    "name": "Lucky Dog's Silver Circlet",
+    "set": "Lucky Dog",
+    "slot": "circlet"
+  },
+  {
+    "name": "Maiden's Distant Love",
+    "set": "Maiden Beloved",
+    "slot": "flower"
+  },
+  {
+    "name": "Maiden's Fading Beauty",
+    "set": "Maiden Beloved",
+    "slot": "circlet"
+  },
+  {
+    "name": "Maiden's Fleeting Leisure",
+    "set": "Maiden Beloved",
+    "slot": "goblet"
+  },
+  {
+    "name": "Maiden's Heart-stricken Infatuation",
+    "set": "Maiden Beloved",
+    "slot": "plume"
+  },
+  {
+    "name": "Maiden's Passing Youth",
+    "set": "Maiden Beloved",
+    "slot": "sands"
+  },
+  {
+    "name": "Forgotten Vessel",
+    "set": "Marechaussee Hunter",
+    "slot": "goblet"
+  },
+  {
+    "name": "Hunter's Brooch",
+    "set": "Marechaussee Hunter",
+    "slot": "flower"
+  },
+  {
+    "name": "Masterpiece's Overture",
+    "set": "Marechaussee Hunter",
+    "slot": "plume"
+  },
+  {
+    "name": "Moment of Judgment",
+    "set": "Marechaussee Hunter",
+    "slot": "sands"
+  },
+  {
+    "name": "Veteran's Visage",
+    "set": "Marechaussee Hunter",
+    "slot": "circlet"
+  },
+  {
+    "name": "Martial Artist's Bandana",
+    "set": "Martial Artist",
+    "slot": "circlet"
+  },
+  {
+    "name": "Martial Artist's Feather Accessory",
+    "set": "Martial Artist",
+    "slot": "plume"
+  },
+  {
+    "name": "Martial Artist's Red Flower",
+    "set": "Martial Artist",
+    "slot": "flower"
+  },
+  {
+    "name": "Martial Artist's Water Hourglass",
+    "set": "Martial Artist",
+    "slot": "sands"
+  },
+  {
+    "name": "Martial Artist's Wine Cup",
+    "set": "Martial Artist",
+    "slot": "goblet"
+  },
+  {
+    "name": "Bloom of the Mind's Desire",
+    "set": "Night of the Sky's Unveiling",
+    "slot": "flower"
+  },
+  {
+    "name": "Crown of the Befallen",
+    "set": "Night of the Sky's Unveiling",
+    "slot": "circlet"
+  },
+  {
+    "name": "Feather of Indelible Sin",
+    "set": "Night of the Sky's Unveiling",
+    "slot": "plume"
+  },
+  {
+    "name": "Revelation's Toll",
+    "set": "Night of the Sky's Unveiling",
+    "slot": "sands"
+  },
+  {
+    "name": "Vessel of Plenty",
+    "set": "Night of the Sky's Unveiling",
+    "slot": "goblet"
+  },
+  {
+    "name": "Compassionate Ladies' Hat",
+    "set": "Nighttime Whispers in the Echoing Woods",
+    "slot": "circlet"
+  },
+  {
+    "name": "Faithful Hourglass",
+    "set": "Nighttime Whispers in the Echoing Woods",
+    "slot": "sands"
+  },
+  {
+    "name": "Honest Quill",
+    "set": "Nighttime Whispers in the Echoing Woods",
+    "slot": "plume"
+  },
+  {
+    "name": "Magnanimous Ink Bottle",
+    "set": "Nighttime Whispers in the Echoing Woods",
+    "slot": "goblet"
+  },
+  {
+    "name": "Selfless Floral Accessory",
+    "set": "Nighttime Whispers in the Echoing Woods",
+    "slot": "flower"
+  },
+  {
+    "name": "Royal Flora",
+    "set": "Noblesse Oblige",
+    "slot": "flower"
+  },
+  {
+    "name": "Royal Masque",
+    "set": "Noblesse Oblige",
+    "slot": "circlet"
+  },
+  {
+    "name": "Royal Plume",
+    "set": "Noblesse Oblige",
+    "slot": "plume"
+  },
+  {
+    "name": "Royal Pocket Watch",
+    "set": "Noblesse Oblige",
+    "slot": "sands"
+  },
+  {
+    "name": "Royal Silver Urn",
+    "set": "Noblesse Oblige",
+    "slot": "goblet"
+  },
+  {
+    "name": "Fell Dragon's Monocle",
+    "set": "Nymph's Dream",
+    "slot": "circlet"
+  },
+  {
+    "name": "Heroes' Tea Party",
+    "set": "Nymph's Dream",
+    "slot": "goblet"
+  },
+  {
+    "name": "Nymph's Constancy",
+    "set": "Nymph's Dream",
+    "slot": "sands"
+  },
+  {
+    "name": "Odyssean Flower",
+    "set": "Nymph's Dream",
+    "slot": "flower"
+  },
+  {
+    "name": "Wicked Mage's Plumule",
+    "set": "Nymph's Dream",
+    "slot": "plume"
+  },
+  {
+    "name": "Crown of the Saints",
+    "set": "Obsidian Codex",
+    "slot": "circlet"
+  },
+  {
+    "name": "Myths of the Night Realm",
+    "set": "Obsidian Codex",
+    "slot": "sands"
+  },
+  {
+    "name": "Pre-Banquet of the Contenders",
+    "set": "Obsidian Codex",
+    "slot": "goblet"
+  },
+  {
+    "name": "Reckoning of the Xenogenic",
+    "set": "Obsidian Codex",
+    "slot": "flower"
+  },
+  {
+    "name": "Root of the Spirit-Marrow",
+    "set": "Obsidian Codex",
+    "slot": "plume"
+  },
+  {
+    "name": "Cowry of Parting",
+    "set": "Ocean-Hued Clam",
+    "slot": "sands"
+  },
+  {
+    "name": "Crown of Watatsumi",
+    "set": "Ocean-Hued Clam",
+    "slot": "circlet"
+  },
+  {
+    "name": "Deep Palace's Plume",
+    "set": "Ocean-Hued Clam",
+    "slot": "plume"
+  },
+  {
+    "name": "Pearl Cage",
+    "set": "Ocean-Hued Clam",
+    "slot": "goblet"
+  },
+  {
+    "name": "Sea-Dyed Blossom",
+    "set": "Ocean-Hued Clam",
+    "slot": "flower"
+  },
+  {
+    "name": "Mocking Mask",
+    "set": "Pale Flame",
+    "slot": "circlet"
+  },
+  {
+    "name": "Moment of Cessation",
+    "set": "Pale Flame",
+    "slot": "sands"
+  },
+  {
+    "name": "Stainless Bloom",
+    "set": "Pale Flame",
+    "slot": "flower"
+  },
+  {
+    "name": "Surpassing Cup",
+    "set": "Pale Flame",
+    "slot": "goblet"
+  },
+  {
+    "name": "Wise Doctor's Pinion",
+    "set": "Pale Flame",
+    "slot": "plume"
+  },
+  {
+    "name": "Tiara of Torrents",
+    "set": "Prayers for Destiny",
+    "slot": "circlet"
+  },
+  {
+    "name": "Tiara of Flame",
+    "set": "Prayers for Illumination",
+    "slot": "circlet"
+  },
+  {
+    "name": "Tiara of Thunder",
+    "set": "Prayers for Wisdom",
+    "slot": "circlet"
+  },
+  {
+    "name": "Tiara of Frost",
+    "set": "Prayers to Springtime",
+    "slot": "circlet"
+  },
+  {
+    "name": "Crown of Parting",
+    "set": "Resolution of Sojourner",
+    "slot": "circlet"
+  },
+  {
+    "name": "Feather of Homecoming",
+    "set": "Resolution of Sojourner",
+    "slot": "plume"
+  },
+  {
+    "name": "Goblet of the Sojourner",
+    "set": "Resolution of Sojourner",
+    "slot": "goblet"
+  },
+  {
+    "name": "Heart of Comradeship",
+    "set": "Resolution of Sojourner",
+    "slot": "flower"
+  },
+  {
+    "name": "Sundial of the Sojourner",
+    "set": "Resolution of Sojourner",
+    "slot": "sands"
+  },
+  {
+    "name": "Summer Night's Bloom",
+    "set": "Retracing Bolide",
+    "slot": "flower"
+  },
+  {
+    "name": "Summer Night's Finale",
+    "set": "Retracing Bolide",
+    "slot": "plume"
+  },
+  {
+    "name": "Summer Night's Mask",
+    "set": "Retracing Bolide",
+    "slot": "circlet"
+  },
+  {
+    "name": "Summer Night's Moment",
+    "set": "Retracing Bolide",
+    "slot": "sands"
+  },
+  {
+    "name": "Summer Night's Waterballoon",
+    "set": "Retracing Bolide",
+    "slot": "goblet"
+  },
+  {
+    "name": "Chalice of Your Blood and Sorrow",
+    "set": "Scarlet Proof",
+    "slot": "goblet"
+  },
+  {
+    "name": "Glory to Your Legacy",
+    "set": "Scarlet Proof",
+    "slot": "plume"
+  },
+  {
+    "name": "Honor to Your Devotion",
+    "set": "Scarlet Proof",
+    "slot": "flower"
+  },
+  {
+    "name": "Testament to Your Faith",
+    "set": "Scarlet Proof",
+    "slot": "circlet"
+  },
+  {
+    "name": "Time Gifted Unto You",
+    "set": "Scarlet Proof",
+    "slot": "sands"
+  },
+  {
+    "name": "Scholar's Bookmark",
+    "set": "Scholar",
+    "slot": "flower"
+  },
+  {
+    "name": "Scholar's Clock",
+    "set": "Scholar",
+    "slot": "sands"
+  },
+  {
+    "name": "Scholar's Ink Cup",
+    "set": "Scholar",
+    "slot": "goblet"
+  },
+  {
+    "name": "Scholar's Lens",
+    "set": "Scholar",
+    "slot": "circlet"
+  },
+  {
+    "name": "Scholar's Quill Pen",
+    "set": "Scholar",
+    "slot": "plume"
+  },
+  {
+    "name": "Beast Tamer's Talisman",
+    "set": "Scroll of the Hero of Cinder City",
+    "slot": "flower"
+  },
+  {
+    "name": "Demon-Warrior's Feather Mask",
+    "set": "Scroll of the Hero of Cinder City",
+    "slot": "circlet"
+  },
+  {
+    "name": "Mountain Ranger's Marker",
+    "set": "Scroll of the Hero of Cinder City",
+    "slot": "plume"
+  },
+  {
+    "name": "Mystic's Golden Dial",
+    "set": "Scroll of the Hero of Cinder City",
+    "slot": "sands"
+  },
+  {
+    "name": "Wandering Scholar's Claw Cup",
+    "set": "Scroll of the Hero of Cinder City",
+    "slot": "goblet"
+  },
+  {
+    "name": "Capricious Visage",
+    "set": "Shimenawa's Reminiscence",
+    "slot": "circlet"
+  },
+  {
+    "name": "Entangling Bloom",
+    "set": "Shimenawa's Reminiscence",
+    "slot": "flower"
+  },
+  {
+    "name": "Hopeful Heart",
+    "set": "Shimenawa's Reminiscence",
+    "slot": "goblet"
+  },
+  {
+    "name": "Morning Dew's Moment",
+    "set": "Shimenawa's Reminiscence",
+    "slot": "sands"
+  },
+  {
+    "name": "Shaft of Remembrance",
+    "set": "Shimenawa's Reminiscence",
+    "slot": "plume"
+  },
+  {
+    "name": "Crystal Tear of the Wanderer",
+    "set": "Silken Moon's Serenade",
+    "slot": "flower"
+  },
+  {
+    "name": "Frost Devotee's Delirium",
+    "set": "Silken Moon's Serenade",
+    "slot": "sands"
+  },
+  {
+    "name": "Holy Crown of the Believer",
+    "set": "Silken Moon's Serenade",
+    "slot": "circlet"
+  },
+  {
+    "name": "Joyous Glory of the Pure",
+    "set": "Silken Moon's Serenade",
+    "slot": "goblet"
+  },
+  {
+    "name": "Pristine Plume of the Blessed",
+    "set": "Silken Moon's Serenade",
+    "slot": "plume"
+  },
+  {
+    "name": "Echoing Sound From Days Past",
+    "set": "Song of Days Past",
+    "slot": "sands"
+  },
+  {
+    "name": "Forgotten Oath of Days Past",
+    "set": "Song of Days Past",
+    "slot": "flower"
+  },
+  {
+    "name": "Poem Passed Down from Days Past",
+    "set": "Song of Days Past",
+    "slot": "circlet"
+  },
+  {
+    "name": "Promised Dream of Days Past",
+    "set": "Song of Days Past",
+    "slot": "goblet"
+  },
+  {
+    "name": "Recollection of Days Past",
+    "set": "Song of Days Past",
+    "slot": "plume"
+  },
+  {
+    "name": "Ceremonial War-Plume",
+    "set": "Tenacity of the Millelith",
+    "slot": "plume"
+  },
+  {
+    "name": "Flower of Accolades",
+    "set": "Tenacity of the Millelith",
+    "slot": "flower"
+  },
+  {
+    "name": "General's Ancient Helm",
+    "set": "Tenacity of the Millelith",
+    "slot": "circlet"
+  },
+  {
+    "name": "Noble's Pledging Vessel",
+    "set": "Tenacity of the Millelith",
+    "slot": "goblet"
+  },
+  {
+    "name": "Orichalceous Time-Dial",
+    "set": "Tenacity of the Millelith",
+    "slot": "sands"
+  },
+  {
+    "name": "Exile's Circlet",
+    "set": "The Exile",
+    "slot": "circlet"
+  },
+  {
+    "name": "Exile's Feather",
+    "set": "The Exile",
+    "slot": "plume"
+  },
+  {
+    "name": "Exile's Flower",
+    "set": "The Exile",
+    "slot": "flower"
+  },
+  {
+    "name": "Exile's Goblet",
+    "set": "The Exile",
+    "slot": "goblet"
+  },
+  {
+    "name": "Exile's Pocket Watch",
+    "set": "The Exile",
+    "slot": "sands"
+  },
+  {
+    "name": "Hourglass of Thunder",
+    "set": "Thundering Fury",
+    "slot": "sands"
+  },
+  {
+    "name": "Omen of Thunderstorm",
+    "set": "Thundering Fury",
+    "slot": "goblet"
+  },
+  {
+    "name": "Survivor of Catastrophe",
+    "set": "Thundering Fury",
+    "slot": "plume"
+  },
+  {
+    "name": "Thunder Summoner's Crown",
+    "set": "Thundering Fury",
+    "slot": "circlet"
+  },
+  {
+    "name": "Thunderbird's Mercy",
+    "set": "Thundering Fury",
+    "slot": "flower"
+  },
+  {
+    "name": "Hour of Soothing Thunder",
+    "set": "Thundersoother",
+    "slot": "sands"
+  },
+  {
+    "name": "Thundersoother's Diadem",
+    "set": "Thundersoother",
+    "slot": "circlet"
+  },
+  {
+    "name": "Thundersoother's Goblet",
+    "set": "Thundersoother",
+    "slot": "goblet"
+  },
+  {
+    "name": "Thundersoother's Heart",
+    "set": "Thundersoother",
+    "slot": "flower"
+  },
+  {
+    "name": "Thundersoother's Plume",
+    "set": "Thundersoother",
+    "slot": "plume"
+  },
+  {
+    "name": "Tiny Miracle's Earrings",
+    "set": "Tiny Miracle",
+    "slot": "circlet"
+  },
+  {
+    "name": "Tiny Miracle's Feather",
+    "set": "Tiny Miracle",
+    "slot": "plume"
+  },
+  {
+    "name": "Tiny Miracle's Flower",
+    "set": "Tiny Miracle",
+    "slot": "flower"
+  },
+  {
+    "name": "Tiny Miracle's Goblet",
+    "set": "Tiny Miracle",
+    "slot": "goblet"
+  },
+  {
+    "name": "Tiny Miracle's Hourglass",
+    "set": "Tiny Miracle",
+    "slot": "sands"
+  },
+  {
+    "name": "Traveling Doctor's Handkerchief",
+    "set": "Traveling Doctor",
+    "slot": "circlet"
+  },
+  {
+    "name": "Traveling Doctor's Medicine Pot",
+    "set": "Traveling Doctor",
+    "slot": "goblet"
+  },
+  {
+    "name": "Traveling Doctor's Owl Feather",
+    "set": "Traveling Doctor",
+    "slot": "plume"
+  },
+  {
+    "name": "Traveling Doctor's Pocket Watch",
+    "set": "Traveling Doctor",
+    "slot": "sands"
+  },
+  {
+    "name": "Traveling Doctor's Silver Lotus",
+    "set": "Traveling Doctor",
+    "slot": "flower"
+  },
+  {
+    "name": "Crownless Crown",
+    "set": "Unfinished Reverie",
+    "slot": "circlet"
+  },
+  {
+    "name": "Dark Fruit of Bright Flowers",
+    "set": "Unfinished Reverie",
+    "slot": "flower"
+  },
+  {
+    "name": "Faded Emerald Tail",
+    "set": "Unfinished Reverie",
+    "slot": "plume"
+  },
+  {
+    "name": "Moment of Attainment",
+    "set": "Unfinished Reverie",
+    "slot": "sands"
+  },
+  {
+    "name": "The Wine-Flask Over Which the Plan Was Hatched",
+    "set": "Unfinished Reverie",
+    "slot": "goblet"
+  },
+  {
+    "name": "Feather of Nascent Light",
+    "set": "Vermillion Hereafter",
+    "slot": "plume"
+  },
+  {
+    "name": "Flowering Life",
+    "set": "Vermillion Hereafter",
+    "slot": "flower"
+  },
+  {
+    "name": "Moment of the Pact",
+    "set": "Vermillion Hereafter",
+    "slot": "goblet"
+  },
+  {
+    "name": "Solar Relic",
+    "set": "Vermillion Hereafter",
+    "slot": "sands"
+  },
+  {
+    "name": "Thundering Poise",
+    "set": "Vermillion Hereafter",
+    "slot": "circlet"
+  },
+  {
+    "name": "In Remembrance of Viridescent Fields",
+    "set": "Viridescent Venerer",
+    "slot": "flower"
+  },
+  {
+    "name": "Viridescent Arrow Feather",
+    "set": "Viridescent Venerer",
+    "slot": "plume"
+  },
+  {
+    "name": "Viridescent Venerer's Determination",
+    "set": "Viridescent Venerer",
+    "slot": "sands"
+  },
+  {
+    "name": "Viridescent Venerer's Diadem",
+    "set": "Viridescent Venerer",
+    "slot": "circlet"
+  },
+  {
+    "name": "Viridescent Venerer's Vessel",
+    "set": "Viridescent Venerer",
+    "slot": "goblet"
+  },
+  {
+    "name": "Ancient Abscission",
+    "set": "Vourukasha's Glow",
+    "slot": "sands"
+  },
+  {
+    "name": "Feast of Boundless Joy",
+    "set": "Vourukasha's Glow",
+    "slot": "goblet"
+  },
+  {
+    "name": "Heart of Khvarena's Brilliance",
+    "set": "Vourukasha's Glow",
+    "slot": "circlet"
+  },
+  {
+    "name": "Stamen of Khvarena's Origin",
+    "set": "Vourukasha's Glow",
+    "slot": "flower"
+  },
+  {
+    "name": "Vibrant Pinion",
+    "set": "Vourukasha's Glow",
+    "slot": "plume"
+  },
+  {
+    "name": "Bard's Arrow Feather",
+    "set": "Wanderer's Troupe",
+    "slot": "plume"
+  },
+  {
+    "name": "Concert's Final Hour",
+    "set": "Wanderer's Troupe",
+    "slot": "sands"
+  },
+  {
+    "name": "Conductor's Top Hat",
+    "set": "Wanderer's Troupe",
+    "slot": "circlet"
+  },
+  {
+    "name": "Troupe's Dawnlight",
+    "set": "Wanderer's Troupe",
+    "slot": "flower"
+  },
+  {
+    "name": "Wanderer's String-Kettle",
+    "set": "Wanderer's Troupe",
+    "slot": "goblet"
+  }
+]
